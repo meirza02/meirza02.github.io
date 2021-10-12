@@ -11,7 +11,7 @@ function typing(){
 typing()
 
 var tulis;
-tulis = "tekan tombol putih di pojok kiri atas";
+tulis = "tekan tombol putih di pojok kanan atas";
 
 setTimeout(function(){
   document.getElementById("tulis").innerHTML += tulis;
