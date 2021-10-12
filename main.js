@@ -1,5 +1,5 @@
 var i=0, text;
-text = "HAI CANTIK SELAMAT MALAM"
+text = "HAI INEKE CANTIK SELAMAT MALAM"
 
 function typing(){
     if (i<text.length){
@@ -18,7 +18,7 @@ setTimeout(function(){
 }, 3000);
 
 var scrol;
-scrol = "scroll ke bawah cantik";
+scrol = "scroll ke bawah ineke cantik";
 
 setTimeout(function(){
   document.getElementById("scrol").innerHTML += scrol;
